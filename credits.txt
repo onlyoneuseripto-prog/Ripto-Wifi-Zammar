@@ -1,0 +1,29 @@
+Our Telegram Channel 
+
+https://t.me/hacking_tool_tutorial
+
+Owner: Riptokhan
+
+On Of Bast Code For Free
+
+Wifi Zammar Zamm Any Wifi
+
+ip / 192.168.1.1
+
+2 ip / 104.17.254.53
+
+port / 80
+
+2 port / 8080
+
+Command 
+
+pkg update && pkg upgrade
+
+pkg install git python -y
+
+git clone https://github.com/onlyoneuseripto-prog/Ripto-Wifi-Zammar.git
+
+cd Ripto-Wifi-Zammar
+
+python RipTo-Wifi-Zamner.py
